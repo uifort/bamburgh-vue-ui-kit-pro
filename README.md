@@ -9,7 +9,7 @@
     <a href="https://twitter.com/intent/tweet?url=https://uifort.com/pro-ui-kits/bamburgh-vue-ui-kit-pro.html&text=Bamburgh %20is %20a %20Premium %20UI %20Kit %20perfect %20applications %20and %20websites %20powered %20by %20Vue %20or %20BootstrapVue.">
         <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
     </a>
-    <a href="https://twitter.com/designrevision">
+    <a href="https://twitter.com/uifort1">
         <img src="https://img.shields.io/twitter/follow/uifort1.svg?style=social&label=Follow" />
     </a>
 </h1>
